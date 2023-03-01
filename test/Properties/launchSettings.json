@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "test": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\RazvanMihoc\\Desktop\\c#\\course3\\test2\\test"
+    }
+  }
+}
