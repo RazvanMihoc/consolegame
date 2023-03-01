@@ -1,6 +1,8 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.Numerics;
 using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
 using Battle;
 using MenuClass;
 using PlayerClass;
@@ -8,18 +10,18 @@ using PlayerClass;
 namespace Game
 {
 
-    class ActualGame
+    class GameClass
     {
         static void Main(string[] args)
         {
 
             Menu printMenu = new Menu();
             printMenu.ShowMenu();
-
             Player player = new Player();
             Combat combat = new Combat();
-
             string selected;
+
+
             do
             {
                 if(player.CurrentHealth <= 0)
@@ -57,8 +59,14 @@ namespace Game
                     switch (eventActioned)
                     {
                         case 1:
-                            Console.WriteLine("called event 1 \n");
-                            combat.ActualBattle();
+                            Console.ForegroundColor = ConsoleColor.DarkRed;
+                            Console.WriteLine("You encountered an enemy! \n" + "To fight him type  1\n" + "To pass him by type 2");
+                            selected = Console.ReadLine();
+                            if(selected == "1")
+                            {
+                                combat.ActualBattle(player);
+                            }
+                            printMenu.ShowMenu();
                             break;
                         case 2:
                             Console.WriteLine("called event 2 \n");

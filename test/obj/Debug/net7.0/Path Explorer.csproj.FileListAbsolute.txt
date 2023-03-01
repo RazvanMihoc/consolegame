@@ -1,0 +1,15 @@
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\bin\Debug\net7.0\Path Explorer.exe
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\bin\Debug\net7.0\Path Explorer.deps.json
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\bin\Debug\net7.0\Path Explorer.runtimeconfig.json
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\bin\Debug\net7.0\Path Explorer.dll
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\bin\Debug\net7.0\Path Explorer.pdb
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\obj\Debug\net7.0\Path Explorer.csproj.AssemblyReference.cache
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\obj\Debug\net7.0\Path Explorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\obj\Debug\net7.0\Path Explorer.AssemblyInfoInputs.cache
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\obj\Debug\net7.0\Path Explorer.AssemblyInfo.cs
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\obj\Debug\net7.0\Path Explorer.csproj.CoreCompileInputs.cache
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\obj\Debug\net7.0\Path Explorer.dll
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\obj\Debug\net7.0\refint\Path Explorer.dll
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\obj\Debug\net7.0\Path Explorer.pdb
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\obj\Debug\net7.0\Path Explorer.genruntimeconfig.cache
+C:\Users\RazvanMihoc\Desktop\c#\course3\test2\test\obj\Debug\net7.0\ref\Path Explorer.dll
